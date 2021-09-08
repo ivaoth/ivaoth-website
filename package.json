@@ -9,6 +9,9 @@
   "author": "IVAO Thailand <th-webmaster@ivao.aero>",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.13"
   }
 }
