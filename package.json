@@ -1,0 +1,14 @@
+{
+  "name": "ivaoth-website",
+  "version": "1.0.0",
+  "description": "A website for IVAO Thailand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IVAO Thailand <th-webmaster@ivao.aero>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
